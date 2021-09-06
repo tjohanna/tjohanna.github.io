@@ -1,0 +1,53 @@
+body {
+    background-color:rgb(178,151,120); /* tan */
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: 25px;
+    color: rgb(53,53,53);
+}
+
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+    width: 50%;
+    margin: 80px auto;
+    border-radius: 5px;
+    /* border: solid; */
+    background-color:rgb(149,129,109); /* mocha */
+  }
+
+  /* background-color:rgb(210,187,152); beige */
+  /* background-color:rgb(157,138,128); taupe */
+
+  
+  .flex-items:nth-child(1) {
+    /* border: dashed; */
+    background-color:rgb(164,127,96); /*camel*/
+    border-radius: 5px;
+
+  }
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+  text-align: center;
+}
+
+
+@media only screen and (max-width: 600px) {
+  body {
+    font-family: 'Finger Paint', cursive;
+    font-size: 15px;
+    background-color: black;
+    }
+
+  img {
+    width: 100px
+  }
+}
