@@ -17,7 +17,7 @@ A simple web page to read random "inspirational" Kanye West quotes.
 
 
 ## Getting Started
-[Click Here](to see the deployed app!)
+[Click Here](https://tjohanna-github-io.vercel.app/) to see the deployed app!
 
 ## Future Enhancements
 * Ability to share quotes via social media
