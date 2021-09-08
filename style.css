@@ -42,12 +42,25 @@ p {
 
 @media only screen and (max-width: 600px) {
   body {
-    font-family: 'Finger Paint', cursive;
-    font-size: 15px;
-    background-color: black;
+    /* font-family: 'Finger Paint', cursive; */
+    font-family: 'Lacquer', cursive;
+        font-size: 15px;
+    background-color: rgb(149,129,109);
     }
 
   img {
     width: 100px
   }
+
+  .flex-container {
+    width: 80%;
+    margin: 80px auto;
+    background-color:rgb(164,127,96); /*camel*/
+
+  }
+  .flex-items:nth-child(1) {
+    background-color:rgb(164,127,96); /*camel*/
+
+  }
+
 }
