@@ -1,4 +1,3 @@
-# tjohanna.github.io
 # Kanye West Quotes
 A simple web page to read random "inspirational" Kanye West quotes. 
 
